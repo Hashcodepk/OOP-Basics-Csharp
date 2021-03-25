@@ -1,0 +1,13 @@
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.exe
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.deps.json
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.runtimeconfig.json
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.runtimeconfig.dev.json
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.dll
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\bin\Debug\netcoreapp3.1\TutorialApp.pdb
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.csprojAssemblyReference.cache
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.AssemblyInfoInputs.cache
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.AssemblyInfo.cs
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.csproj.CoreCompileInputs.cache
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.dll
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.pdb
+F:\Waqas Bhai\Tutorials\TutorialApp\TutorialApp\obj\Debug\netcoreapp3.1\TutorialApp.genruntimeconfig.cache
