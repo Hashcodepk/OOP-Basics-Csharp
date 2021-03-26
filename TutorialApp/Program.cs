@@ -4,6 +4,9 @@ using TutorialApp.Inheritance;
 using TutorialApp.MethodOverloading;
 using TutorialApp.Polymorphism;
 using TutorialApp.Student;
+using TutorialApp.Recursion;
+using TutorialApp.PassByRef;
+using static TutorialApp.StaticClass.StaticClass;
 
 namespace TutorialApp
 {
@@ -48,6 +51,25 @@ namespace TutorialApp
             //Overload ov = new Overload();
             //ov.Add(2, 2);
 
+
+            //Static Class
+            //Console.WriteLine(calculation(12, 12));
+
+            //Recursion
+            //RecursiveMethod rec = new RecursiveMethod();
+            ////rec.Counting();
+            //int FactorialResult = rec.Factorial();
+            //Console.WriteLine(FactorialResult);
+            //Console.ReadLine();
+
+
+            //Pass by value vs pass by reference 
+
+            //PassByReference pbf = new PassByReference();
+            //int value = 5;
+            ////pbf.passByValue(value);
+            //pbf.passByReference(ref value);
+            //Console.WriteLine("value : {0}", value);
         }
     }
 }
